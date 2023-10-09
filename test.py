@@ -18,7 +18,12 @@ print("function")
 def function():
     print("function")
 
+<<<<<<< HEAD
 def function1():
     print("function1")
 
 
+=======
+def function2():
+    print("function2")
+>>>>>>> branch2
