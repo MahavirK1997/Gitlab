@@ -18,4 +18,5 @@ print("function")
 def function():
     print("function")
 
-
+def function2():
+    print("function2")
