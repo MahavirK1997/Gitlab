@@ -15,4 +15,7 @@ print("some changes")
 
 print("function")
 
+def function():
+    print("function")
+
 
