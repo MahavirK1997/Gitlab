@@ -20,3 +20,6 @@ def function():
 
 def function2():
     print("function2")
+
+def function4():
+    print("function4")
