@@ -12,4 +12,4 @@ print("all is well")
 
 print("nature is good")
 print("some changes")
->>>>>>> b28deec5d4927e97be2c03e5f5ba4d358d82be8b
+
