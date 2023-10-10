@@ -29,7 +29,12 @@ def function2():
 def function3():
     print("function3")
 
+<<<<<<< HEAD
 
 def function4():
     print("function4")
 
+=======
+def function5():
+    print("function5")
+>>>>>>> branch1
