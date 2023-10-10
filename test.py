@@ -28,3 +28,5 @@ def function2():
 def function3():
     print("function3")
 
+def function5():
+    print("function5")
